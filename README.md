@@ -68,7 +68,7 @@ I've been building things for the web since...well, pretty much since people hav
 
 [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits&theme=dracula)](https://github.com/dropkick)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick&left_color=#4882b6&right_color=#255370)](https://github.com/dropkick)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick&left_color=#555555&right_color=#255370)](https://github.com/dropkick)
 
 
 <!--       _
