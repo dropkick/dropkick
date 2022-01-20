@@ -1,3 +1,7 @@
+![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits&theme=dracula)
+
+### Hi there 👋
+
 <!--
 **dropkick/dropkick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +18,11 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> #
+<h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3>
 
-## I'm a full-stack web developer and graphic designer. ##
+<h3 align="center">I'm a full-stack web developer and graphic designer.</h2>
 
-I've been building things for the web since...well, pretty much since people have been doing that. 
+I've been building things for the web since...well, pretty much since people have been doing that.
 
 ### 🤝 Let’s connect
 
@@ -30,7 +34,7 @@ I've been building things for the web since...well, pretty much since people hav
 
 ## 🌱 Current learning
 
-- Getting deeper with React 
+- Getting deeper with React
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
@@ -64,14 +68,14 @@ I've been building things for the web since...well, pretty much since people hav
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat-square&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&color=00C7B7)
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
-[![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits&theme=dracula)](https://github.com/yushi1007)
+[![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits&theme=dracula)](https://github.com/dropkick)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick&left_color=4882b6&right_color=255370)
-                
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick&left_color=4882b6&right_color=255370)](https://github.com/dropkick)
+
 
 <!--       _
        .__(.)< (MEOW)
-        \___)   
+        \___)
  ~~~~~~~~~~~~~~~~~~-->
