@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">I'm a full-stack web developer and graphic designer.</h2>
 
-<p align="center">I've been building things for the web since...well, pretty much since people have been doing that.</p>
+<p align="justify">I've been building things for the web since...well, pretty much since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, and adaptation.[^1]</p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/dropkick/dropkick)
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/dropkick/dropkick) -->
 
-[![Website Status](https://img.shields.io/uptimerobot/status/m788515658-5cca6b7b2083cb2b1cfb29fd?label=website%20status&style=flat-square)](https://dropkick.design)
+<!-- [![Website Status](https://img.shields.io/uptimerobot/status/m788515658-5cca6b7b2083cb2b1cfb29fd?label=website%20status&style=flat-square)](https://dropkick.design) -->
 ## Contact + Connect
 <!-- <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/jasonduerr?style=flat-square"> -->
 
@@ -45,8 +45,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=PHP&color=777BB4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat-square&logo=Ruby&color=CC342D)
-<!-- ![](https://img.shields.io/badge/Code-Rails-informational?style=flat-square&logo=Ruby-On-Rails&color=CC0000) -->
-
+</br>
 ![](https://img.shields.io/badge/sh-Bash-informational?style=flat-square&color=4CB257)
 ![](https://img.shields.io/badge/sh-Zsh-informational?style=flat-square&color=020c7e)
 
@@ -145,6 +144,9 @@ Here are some ideas to get you started:
 ### Web visitor counters were a *thing*
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick)](https://github.com/dropkick)
 
+---
+
+[^1]: Also, despite learning to write for AP style, a love for the Oxford comma...apparently.
 
 <!--       _
        .__(.)< (MEOW)
