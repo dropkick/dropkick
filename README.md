@@ -27,10 +27,10 @@ I've been building things for the web since...well, pretty much since people hav
 
 ### 🤝 Let’s connect
 
-<a href="https://www.linkedin.com/in/jasonduerr/" taget="_blank"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/linkedin.svg" alt="Jason Duerr @ LinkedIn" width="32px"/></a>
-<a href="https://twitter.com/dropkickdesign"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/twitter.svg" alt="dropkickdesign @ Twitter" width="32px"/></a>
-<a href="https://instagram.com/dropkickdesign"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/instagram.svg" alt="dropkickdesign @ Instagram" width="32px"/></a>
-<a href="https://dribbble.com/dropkick"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/dribbble.svg" alt="Dropkick @ Dribbble" width="32px"/></a>
+<a href="https://www.linkedin.com/in/jasonduerr/" taget="_blank"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/linkedin.svg" alt="Jason Duerr @ LinkedIn" width="24"/></a>
+<a href="https://twitter.com/dropkickdesign"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/twitter.svg" alt="dropkickdesign @ Twitter" width="24"/></a>
+<a href="https://instagram.com/dropkickdesign"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/instagram.svg" alt="dropkickdesign @ Instagram" width="24"/></a>
+<a href="https://dribbble.com/dropkick"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/dribbble.svg" alt="Dropkick @ Dribbble" width="24"/></a>
 
 
 </br>
