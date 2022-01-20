@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![last.fm](https://img.shields.io/badge/last.fm-braintoast-informational?style=flat-square&logo=Last.fm&color=D51007)](https://www.last.fm/user/braintoast)  [![dropkickdesign @ Twitter](https://img.shields.io/badge/Twitter-@dropkickdesign-informational?style=flat-square&logo=Twitter&color=1DA1F2)](https://twitter.com/dropkickdesign)  [![Dropkick @ Dribbble](https://img.shields.io/badge/Dribbble-@dropkick-informational?style=flat-square&logo=Dribbble&color=EA4C89)](https://dribbble.com/dropkick)  [![dropkickdesign @ Instagram](https://img.shields.io/badge/Instagram-@dropkickdesign-informational?style=flat-square&logo=Instagram&color=E4405F)](https://instagram.com/dropkickdesign)
 
-## 🌱 Current learning
+### Current learning focus
 
 - Getting deeper with React
 
@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat-square&logo=sass&color=CC6699&logoColor=CC6699)
 ![](https://img.shields.io/badge/Style-less-informational?style=flat-square&logo=less&color=1D365D&logoColor=1D365D)
 
-![](https://img.shields.io/badge/Tools-Grunt-informational?style=flat-square&logo=Grunt&color=FAA918&logoColor=FAA918)
 ![](https://img.shields.io/badge/Tools-Gulp.js-informational?style=flat-square&logo=Gulp&color=CF4647&logoColor=CF4647)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Grunt-informational?style=flat-square&logo=Grunt&color=FAA918&logoColor=FAA918)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat-square&logo=Yarn&color=2C8EBB)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&color=181717)
 <!-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=Postman&color=FF6C37) -->
@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat-square&logo=AdobeIllustrator&color=FF9A00&logoColor=FF9A00)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat-square&logo=AdobePhotoshop&color=31A8FF&logoColor=31A8FF)
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat-square&logo=AdobeXD&color=FF61F6&logoColor=FF61F6)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat-square&logo=Sketch&color=F7B500&logoColor=F7B500)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-InDesign-informational?style=flat-square&logo=AdobeInDesign&color=FF3366&logoColor=FF3366)
 ![](https://img.shields.io/badge/Tools-Audition-informational?style=flat-square&logo=AdobeAudition&color=9999FF&logoColor=9999FF)
 ![](https://img.shields.io/badge/Tools-Premiere-informational?style=flat-square&logo=AdobePremierePro&color=9999FF&logoColor=9999FF)
@@ -100,6 +100,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CMS-Squarespace-informational?style=flat-square&logo=squarespace&color=000000&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/CMS-BigCommerce-informational?style=flat-square&logo=BigCommerce&color=121118&logoColor=121118)
 
+![](https://img.shields.io/badge/SSG-Jekyll-informational?style=flat-square&logo=jekyll&color=CC0000&logoColor=CC0000)
+![](https://img.shields.io/badge/SSG-Gatsby-informational?style=flat-square&logo=Gatsby&color=663399&logoColor=663399)
+![](https://img.shields.io/badge/SSG-Hugo-informational?style=flat-square&logo=Hugo&color=FF4088&logoColor=FF4088)
+![](https://img.shields.io/badge/SSG-Eleventy-informational?style=flat-square&logo=eleventy&color=000000&logoColor=000000)
+
 ### Servers + Host Platforms
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=flat-square&logo=apache&color=D22128&logoColor=D22128)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat-square&logo=nginx&color=009639&logoColor=009639)
@@ -113,19 +118,19 @@ Here are some ideas to get you started:
 
 ### Hypervisors
 ![](https://img.shields.io/badge/VM-Docker-Informational?style=flat-square&logo=docker&color=2496ED&logoColor=white)
-![](https://img.shields.io/badge/VM-ESXi-Informational?style=flat-square&logo=vmware&color=607078&logoColor=white)
 ![](https://img.shields.io/badge/VM-VirtualBox-Informational?style=flat-square&logo=VirtualBox&color=183A61&logoColor=white)
+![](https://img.shields.io/badge/VM-ESXi-Informational?style=flat-square&logo=vmware&color=607078&logoColor=white)
 
 ### Operating Systems
 ![](https://img.shields.io/badge/OS-macOS-Informational?style=flat-square&logo=macOS&color=000000&logoColor=000000)
 ![](https://img.shields.io/badge/OS-Debian-Informational?style=flat-square&logo=Debian&color=A81D33&logoColor=A81D33)
-![](https://img.shields.io/badge/OS-Kali-Informational?style=flat-square&logo=KaliLinux&color=557C94&logoColor=557C94)
-![](https://img.shields.io/badge/OS-Manjaro-Informational?style=flat-square&logo=Manjaro&color=35BF5C&logoColor=35BF5C)
-![](https://img.shields.io/badge/OS-Tails-Informational?style=flat-square&logo=Tails&color=56347C&logoColor=56347C)
-![](https://img.shields.io/badge/OS-CentOS-Informational?style=flat-square&logo=CentOS&color=262577&logoColor=262577)
 ![](https://img.shields.io/badge/OS-Ubuntu-Informational?style=flat-square&logo=Ubuntu&color=E95420&logoColor=E95420)
-![](https://img.shields.io/badge/OS-FreeBSD-Informational?style=flat-square&logo=FreeBSD&color=AB2B28&logoColor=AB2B28)
 ![](https://img.shields.io/badge/OS-Windows-Informational?style=flat-square&logo=Windows&color=0078D6&logoColor=0078D6)
+![](https://img.shields.io/badge/OS-Tails-Informational?style=flat-square&logo=Tails&color=56347C&logoColor=56347C)
+![](https://img.shields.io/badge/OS-Kali-Informational?style=flat-square&logo=KaliLinux&color=557C94&logoColor=557C94)
+![](https://img.shields.io/badge/OS-CentOS-Informational?style=flat-square&logo=CentOS&color=262577&logoColor=262577)
+![](https://img.shields.io/badge/OS-FreeBSD-Informational?style=flat-square&logo=FreeBSD&color=AB2B28&logoColor=AB2B28)
+![](https://img.shields.io/badge/OS-Manjaro-Informational?style=flat-square&logo=Manjaro&color=35BF5C&logoColor=35BF5C)
 
 ### Planning + Issue Tracking
 
@@ -133,7 +138,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Asana-informational?style=flat-square&logo=asana&color=273347&logoColor=273347)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat-square&logo=jira&color=0052CC&logoColor=0052CC)
 
-[![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick)
+<!-- [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs,issues,stars&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick) -->
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick)](https://github.com/dropkick)
 
