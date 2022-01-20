@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3>
+# 👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> #
 
-<h3 align="center">I'm a full-stack web developer and graphic designer.</h2> 
+## I'm a full-stack web developer and graphic designer. ##
 
 I've been building things for the web since...well, pretty much since people have been doing that. 
 
