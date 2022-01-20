@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I'm a full-stack web developer and graphic designer.</h2>
 
-<p align="justify">I've been building things for the web since...well, pretty much since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, and adaptation.<sup id="a1">[1](#f1)</sup></p>
+<p align="justify">I've been building things for the web since...well, pretty much since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, and adaptation.<sup id="a1"><A href="#f1">[1]</a></sup></p>
 
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/dropkick/dropkick) -->
 
