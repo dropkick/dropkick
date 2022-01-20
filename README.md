@@ -66,7 +66,7 @@ I've been building things for the web since...well, pretty much since people hav
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat-square&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&color=00C7B7)
 
-[![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&border_radius=0&show_icons=true&include_all_commits&theme=dracula)](https://github.com/dropkick)
+[![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title='GitHub Numbers')](https://github.com/dropkick)
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick)](https://github.com/dropkick)
 
