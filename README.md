@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 I've been building things for the web since...well, pretty much since people have been doing that.
 
+### 📢 Contact Info
+
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:jasonduerr@protonmail.com)
+
 ### 🤝 Let’s connect
 
 <a href="https://www.linkedin.com/in/jasonduerr/" taget="_blank"><img align="left" src="https://raw.githubusercontent.com/dropkick/dropkick/main/images/linkedin.svg" alt="Jason Duerr @ LinkedIn" width="32px"/></a>
@@ -35,8 +39,8 @@ I've been building things for the web since...well, pretty much since people hav
 - Getting deeper with React
 
 ## 💼 Technical Skills
-![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-
+![](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=MySQL&color=003B57)
