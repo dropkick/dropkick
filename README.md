@@ -40,7 +40,7 @@ I've been building things for the web since...well, pretty much since people hav
 - Getting deeper with React
 
 ## 💼 Technical Skills
-![](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+![](https://img.shields.io/badge/Code-Perl-informational?style=flat-square&logo=perl&color=39457E)
 ![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=PostgreSQL&color=336791)
