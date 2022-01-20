@@ -23,17 +23,19 @@ Here are some ideas to get you started:
 ![GitHub last commit](https://img.shields.io/github/last-commit/dropkick/dropkick)
 
 [![Website Status](https://img.shields.io/uptimerobot/status/m788515658-5cca6b7b2083cb2b1cfb29fd?label=website%20status&style=flat-square)](https://dropkick.design)
-### 📢  Contact + 🤝 Connect
+## Contact + Connect
+<!-- <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/jasonduerr?style=flat-square"> -->
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:jasonduerr@protonmail.com)  [![Jason Duerr @ LinkedIn](https://img.shields.io/badge/LinkedIn-jasonduerr-informational?style=flat-square&logo=LinkedIn&color=0A66C2)](https://twitter.com/dropkickdesign)  ![](https://img.shields.io/badge/PGP%20Fingerprint-B79B%C2%A0F3F7%C2%A0671E%C2%A06558%C2%A0D7FE%C2%A0%C2%A04B1D%C2%A0CE20%C2%A0185B%C2%A04D92%C2%A0DC13-333333?style=flat-square)
-<img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/jasonduerr?style=flat-square">
-
+[![Jason Duerr @ LinkedIn](https://img.shields.io/badge/LinkedIn-jasonduerr-informational?style=flat-square&logo=LinkedIn&color=0A66C2)](https://twitter.com/dropkickdesign)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-jasonduerr-Informational?style=flat-square&logo=protonmail&color=8B89CC&logoColor=white)](mailto:jasonduerr@protonmail.com)
+![](https://img.shields.io/badge/pgp-B79B%C2%A0F3F7%C2%A0671E%C2%A06558%C2%A0D7FE%C2%A0%C2%A04B1D%C2%A0CE20%C2%A0185B%C2%A04D92%C2%A0DC13-333333?style=flat-square)
+</br>
 [![last.fm](https://img.shields.io/badge/last.fm-braintoast-informational?style=flat-square&logo=Last.fm&color=D51007)](https://www.last.fm/user/braintoast)  [![dropkickdesign @ Twitter](https://img.shields.io/badge/Twitter-@dropkickdesign-informational?style=flat-square&logo=Twitter&color=1DA1F2)](https://twitter.com/dropkickdesign)  [![Dropkick @ Dribbble](https://img.shields.io/badge/Dribbble-@dropkick-informational?style=flat-square&logo=Dribbble&color=EA4C89)](https://dribbble.com/dropkick)  [![dropkickdesign @ Instagram](https://img.shields.io/badge/Instagram-@dropkickdesign-informational?style=flat-square&logo=Instagram&color=E4405F)](https://instagram.com/dropkickdesign)
 
-### Current learning focus
-
+## Current learning focus
 - Getting deeper with React
 
+## What I’m Working With
 ### Programming + Scripting + Data
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=HTML5&color=E34F26)
@@ -140,6 +142,7 @@ Here are some ideas to get you started:
 
 <!-- [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs,issues,stars&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick) -->
 
+### Web visitor counters were a *thing*
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick)](https://github.com/dropkick)
 
 
