@@ -23,7 +23,7 @@ I've been building things for the web since...well, pretty much since people hav
 ### 📢 Contact Info
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:jasonduerr@protonmail.com)
-![](https://img.shields.io/badge/PGP%20Fingerprint-B79B%C2%A0F3F7%C2%A0671E%C2%A06558%C2%A0D7FE%C2%A0%C2%A04B1D%C2%A0CE20%C2%A0185B%C2%A04D92%C2%A0DC13-333333)
+![](https://img.shields.io/badge/PGP%20Fingerprint-B79B%C2%A0F3F7%C2%A0671E%C2%A06558%C2%A0D7FE%C2%A0%C2%A04B1D%C2%A0CE20%C2%A0185B%C2%A04D92%C2%A0DC13-333333?style=flat-square)
 
 ### 🤝 Let’s connect
 
