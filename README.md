@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 ---
 Footnotes:
 
-[<b id="f1">1</b>]: Also, despite learning to write for AP style, a love for the Oxford comma...apparently. [↩](#a1)
+[<b id="f1">1</b>]: Also, despite learning to write for AP style, a love for the Oxford comma...apparently. <a href="#a1">↩</a>
 
 <!--       _
        .__(.)< (MEOW)
