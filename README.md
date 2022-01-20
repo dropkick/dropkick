@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Subversion-informational?style=flat-square&logo=Subversion&color=809CC9)
 <!-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=Postman&color=FF6C37) -->
 ### Editors + IDEs
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat-square&logo=VisualStudioCode&color=007ACC&logoColor=007ACC)
