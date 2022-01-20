@@ -1,7 +1,3 @@
-![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits&theme=dracula)
-
-### Hi there 👋
-
 <!--
 **dropkick/dropkick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -67,8 +63,6 @@ I've been building things for the web since...well, pretty much since people hav
 
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat-square&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&color=00C7B7)
-
-## 📈 GitHub Stats
 
 [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits&theme=dracula)](https://github.com/dropkick)
 
