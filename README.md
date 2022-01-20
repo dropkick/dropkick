@@ -13,17 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
+ __ __  ____          ____  ___ ___       ____   ____  _____  ___   ____
+|  |  ||    |        |    ||   |   |     |    | /    |/ ___/ /   \ |    \
+|  |  | |  |          |  | | _   _ |     |__  ||  o  (   \_ |     ||  _  |
+|  _  | |  |          |  | |  \_/  |     __|  ||     |\__  ||  O  ||  |  |
+|  |  | |  |  __      |  | |   |   |    /  |  ||  _  |/  \ ||     ||  |  | __
+|  |  | |  | |  |     |  | |   |   |    \  `  ||  |  |\    ||     ||  |  ||  |
+|__|__||____||_ |    |____||___|___|     \____j|__|__| \___| \___/ |__|__||__|
+               \|
 
-<h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3>
+```
+
+
+
+
+<!-- <h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3> -->
 
 <h3 align="center">I'm a full-stack web developer and graphic designer.</h2>
 
 <p align="justify">I've been building things for the web since...well, pretty much since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, and adaptation.<sup id="a1"><a href="#f1">1</a></sup></p>
-
-<p align="center">
-<a style="margin: 0 auto;" href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=dropkick&theme=onedark&title=MultiLanguage,LongTimeUser,AncientUser,Commits&margin-w=10&no-bg=true&no-frame=true"></a>
-</p>
 
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/dropkick/dropkick) -->
 
@@ -145,6 +154,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat-square&logo=jira&color=0052CC&logoColor=0052CC)
 
 <!-- [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs,issues,stars&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick) -->
+
+---
+<a style="margin: 0 auto;" href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=dropkick&theme=onedark&title=MultiLanguage,LongTimeUser,AncientUser,Commits&margin-w=10&no-bg=true&no-frame=true"></a>
 
 ### Web visitor counters were a *thing*
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick)](https://github.com/dropkick)
