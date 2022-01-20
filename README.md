@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 <p align="justify">I've been building things for the web since...well, pretty much since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, and adaptation.<sup id="a1"><a href="#f1">1</a></sup></p>
 
+<p align="center">
+<a style="margin: 0 auto;" href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=dropkick&theme=onedark&title=MultiLanguage,LongTimeUser,AncientUser,Commits&margin-w=10&no-bg=true&no-frame=true"></a>
+</p>
+
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/dropkick/dropkick) -->
 
 <!-- [![Website Status](https://img.shields.io/uptimerobot/status/m788515658-5cca6b7b2083cb2b1cfb29fd?label=website%20status&style=flat-square)](https://dropkick.design) -->
@@ -147,7 +152,7 @@ Here are some ideas to get you started:
 ---
 Footnotes:
 
-[<b id="f1">1</b>]: Also, despite learning to write for AP style, a love for the Oxford comma...apparently. <a href="#a1">↩</a>
+[<b id="f1">1</b>]: Also, despite being taught to write to AP style, a love for the Oxford comma...apparently. <a href="#a1">↩</a>
 
 <!--       _
        .__(.)< (MEOW)
