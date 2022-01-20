@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- <h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3> -->
 
-<h3 align="center">I'm a full-stack web developer and graphic designer.</h2>
+<h3 align="center">I'm a graphic designer and full-stack web developer.</h2>
 
 <p align="justify">I've been building things for the web since...well, pretty much since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, and adaptation.<sup id="a1"><a href="#f1">1</a></sup></p>
 
