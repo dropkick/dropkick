@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 </br>
 [![last.fm](https://img.shields.io/badge/last.fm-braintoast-informational?style=flat-square&logo=Last.fm&color=D51007)](https://www.last.fm/user/braintoast)  [![dropkickdesign @ Twitter](https://img.shields.io/badge/Twitter-@dropkickdesign-informational?style=flat-square&logo=Twitter&color=1DA1F2)](https://twitter.com/dropkickdesign)  [![Dropkick @ Dribbble](https://img.shields.io/badge/Dribbble-@dropkick-informational?style=flat-square&logo=Dribbble&color=EA4C89)](https://dribbble.com/dropkick)  [![dropkickdesign @ Instagram](https://img.shields.io/badge/Instagram-@dropkickdesign-informational?style=flat-square&logo=Instagram&color=E4405F)](https://instagram.com/dropkickdesign)
 
-## Current learning focus
-- Getting deeper with React
+<!-- ## Current learning focus
+- Getting deeper with React -->
 
 ## What I’m Working With
 ### Programming + Scripting + Data
@@ -154,6 +154,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat-square&logo=jira&color=0052CC&logoColor=0052CC)
 
 <!-- [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs,issues,stars&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick) -->
+
 
 ---
 <a style="margin: 0 auto;" href="https://github.com/ryo-ma/github-profile-trophy">
