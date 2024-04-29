@@ -94,14 +94,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-WebStorm-informational?style=flat-square&logo=WebStorm&color=000000&logoColor=000000)
 ![](https://img.shields.io/badge/Tools-Xcode-informational?style=flat-square&logo=xcode&color=147EFB&logoColor=147EFB)
 
-### GFX
+### GFX + Media
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat-square&logo=AdobeIllustrator&color=FF9A00&logoColor=FF9A00)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat-square&logo=AdobePhotoshop&color=31A8FF&logoColor=31A8FF)
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat-square&logo=AdobeXD&color=FF61F6&logoColor=FF61F6)
+![](https://img.shields.io/badge/Tools-InDesign-informational?style=flat-square&logo=AdobeInDesign&color=FF3366&logoColor=FF3366)
 ![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat-square&logo=Sketch&color=F7B500&logoColor=F7B500)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-InDesign-informational?style=flat-square&logo=AdobeInDesign&color=FF3366&logoColor=FF3366)
 ![](https://img.shields.io/badge/Tools-Audition-informational?style=flat-square&logo=AdobeAudition&color=9999FF&logoColor=9999FF)
+![](https://img.shields.io/badge/Tools-Reaper-informational?style=flat-square&logo=Reaper&color=68c13b&logoColor=68c13b)
 ![](https://img.shields.io/badge/Tools-Premiere-informational?style=flat-square&logo=AdobePremierePro&color=9999FF&logoColor=9999FF)
 
 ### CMS + Ecommerce Platforms
@@ -109,7 +110,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CMS-Craft-informational?style=flat-square&logo=craftcms&color=E5422B&logoColor=E5422B)
 ![](https://img.shields.io/badge/CMS-Drupal-informational?style=flat-square&logo=drupal&color=0678BE&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/CMS-Ghost-informational?style=flat-square&logo=ghost&color=15171A&logoColor=FFFFFF)
-![](https://img.shields.io/badge/CMS-Dato-informational?style=flat-square&logo=datocms&color=FF7751&logoColor=FF7751)
+![](https://img.shields.io/badge/CMS-Decap-informational?style=flat-square&logo=decapcms&color=fc1681&logoColor=fc1681)
 
 ![](https://img.shields.io/badge/CMS-Shopify-informational?style=flat-square&logo=shopify&color=7AB55C&logoColor=7AB55C)
 ![](https://img.shields.io/badge/CMS-WooCommerce-informational?style=flat-square&logo=woocommerce&color=96588A&logoColor=96588A)
@@ -117,6 +118,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CMS-Squarespace-informational?style=flat-square&logo=squarespace&color=000000&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/CMS-BigCommerce-informational?style=flat-square&logo=BigCommerce&color=121118&logoColor=121118)
 
+![](https://img.shields.io/badge/SSG-Astro-informational?style=flat-square&logo=astro&color=774df2&logoColor=774df2)
 ![](https://img.shields.io/badge/SSG-Jekyll-informational?style=flat-square&logo=jekyll&color=CC0000&logoColor=CC0000)
 ![](https://img.shields.io/badge/SSG-Gatsby-informational?style=flat-square&logo=Gatsby&color=663399&logoColor=663399)
 ![](https://img.shields.io/badge/SSG-Hugo-informational?style=flat-square&logo=Hugo&color=FF4088&logoColor=FF4088)
@@ -125,29 +127,25 @@ Here are some ideas to get you started:
 ### Servers + Host Platforms
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=flat-square&logo=apache&color=D22128&logoColor=D22128)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat-square&logo=nginx&color=009639&logoColor=009639)
+![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat-square&logo=amazonAWS&color=232F3E&logoColor=232F3E)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat-square&logo=vercel&color=000000&logoColor=000000)
+![](https://img.shields.io/badge/Tools-Amazon_S3-informational?style=flat-square&logo=amazonS3&color=569A31&logoColor=569A31)
 ![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat-square&logo=DigitalOcean&color=0080FF&logoColor=0080FF)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat-square&logo=Heroku&color=430098&logoColor=430098)
 ![](https://img.shields.io/badge/Tools-Linode-informational?style=flat-square&logo=Linode&color=00A95C&logoColor=00A95C)
-![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat-square&logo=amazonAWS&color=232F3E&logoColor=232F3E)
-![](https://img.shields.io/badge/Tools-Amazon_S3-informational?style=flat-square&logo=amazonS3&color=569A31&logoColor=569A31)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat-square&logo=vercel&color=000000&logoColor=000000)
 
 ### VM + Hypervisors
 ![](https://img.shields.io/badge/VM-Docker-Informational?style=flat-square&logo=docker&color=2496ED&logoColor=white)
 ![](https://img.shields.io/badge/VM-VirtualBox-Informational?style=flat-square&logo=VirtualBox&color=183A61&logoColor=white)
-![](https://img.shields.io/badge/VM-ESXi-Informational?style=flat-square&logo=vmware&color=607078&logoColor=white)
 
 ### Operating Systems
 ![](https://img.shields.io/badge/OS-macOS-Informational?style=flat-square&logo=macOS&color=000000&logoColor=000000)
 ![](https://img.shields.io/badge/OS-Debian-Informational?style=flat-square&logo=Debian&color=A81D33&logoColor=A81D33)
 ![](https://img.shields.io/badge/OS-Ubuntu-Informational?style=flat-square&logo=Ubuntu&color=E95420&logoColor=E95420)
 ![](https://img.shields.io/badge/OS-Windows-Informational?style=flat-square&logo=Windows&color=0078D6&logoColor=0078D6)
-![](https://img.shields.io/badge/OS-Tails-Informational?style=flat-square&logo=Tails&color=56347C&logoColor=56347C)
-![](https://img.shields.io/badge/OS-Kali-Informational?style=flat-square&logo=KaliLinux&color=557C94&logoColor=557C94)
 ![](https://img.shields.io/badge/OS-CentOS-Informational?style=flat-square&logo=CentOS&color=262577&logoColor=262577)
 ![](https://img.shields.io/badge/OS-FreeBSD-Informational?style=flat-square&logo=FreeBSD&color=AB2B28&logoColor=AB2B28)
-![](https://img.shields.io/badge/OS-Manjaro-Informational?style=flat-square&logo=Manjaro&color=35BF5C&logoColor=35BF5C)
 
 ### Planning + Issue Tracking
 
