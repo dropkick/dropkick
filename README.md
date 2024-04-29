@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat-square&logo=vercel&color=000000&logoColor=000000)
 
-### Hypervisors
+### VM + Hypervisors
 ![](https://img.shields.io/badge/VM-Docker-Informational?style=flat-square&logo=docker&color=2496ED&logoColor=white)
 ![](https://img.shields.io/badge/VM-VirtualBox-Informational?style=flat-square&logo=VirtualBox&color=183A61&logoColor=white)
 ![](https://img.shields.io/badge/VM-ESXi-Informational?style=flat-square&logo=vmware&color=607078&logoColor=white)
