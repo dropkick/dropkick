@@ -13,21 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
- __ __  ____          ____  ___ ___       ____   ____  _____  ___   ____
-|  |  ||    |        |    ||   |   |     |    | /    |/ ___/ /   \ |    \
-|  |  | |  |          |  | | _   _ |     |__  ||  o  (   \_ |     ||  _  |
-|  _  | |  |          |  | |  \_/  |     __|  ||     |\__  ||  O  ||  |  |
-|  |  | |  |  __      |  | |   |   |    /  |  ||  _  |/  \ ||     ||  |  | __
-|  |  | |  | |  |     |  | |   |   |    \  `  ||  |  |\    ||     ||  |  ||  |
-|__|__||____||_ |    |____||___|___|     \____j|__|__| \___| \___/ |__|__||__|
-               \|
-
-```
-
-
-
-
 <!-- <h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3> -->
 
 <h3>I'm a graphic designer and full-stack web developer.</h2>
