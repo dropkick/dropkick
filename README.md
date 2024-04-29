@@ -160,9 +160,7 @@ Here are some ideas to get you started:
 ---
 <a style="margin: 0 auto;" href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=dropkick&theme=onedark&title=MultiLanguage,LongTimeUser,AncientUser,Commits&margin-w=10&no-bg=true&no-frame=true"></a>
-
-### Web visitor counters were a *thing*
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=dropkick.dropkick)](https://github.com/dropkick)
+)](https://github.com/dropkick)
 
 ---
 Footnotes:
