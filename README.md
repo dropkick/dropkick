@@ -87,10 +87,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Subversion-informational?style=flat-square&logo=Subversion&color=809CC9)
 <!-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=Postman&color=FF6C37) -->
+
 ### Editors + IDEs
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat-square&logo=VisualStudioCode&color=007ACC&logoColor=007ACC)
-![](https://img.shields.io/badge/Tools-Zed-informational?style=flat-square&logo=Zed&color=1952d5&logoColor=1952d5)
-![](https://img.shields.io/badge/Tools-Sublime-informational?style=flat-square&logo=Sublime&color=FF9800&logoColor=FF9800)
+![](https://img.shields.io/badge/Tools-Zed-informational?style=flat-square&logo=zedindustries&color=1952d5&logoColor=1952d5)
+![](https://img.shields.io/badge/Tools-Sublime-informational?style=flat-square&logo=sublimetext&color=FF9800&logoColor=FF9800)
 ![](https://img.shields.io/badge/Tools-WebStorm-informational?style=flat-square&logo=WebStorm&color=000000&logoColor=000000)
 ![](https://img.shields.io/badge/Tools-Xcode-informational?style=flat-square&logo=xcode&color=147EFB&logoColor=147EFB)
 
