@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- <h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3> -->
 
-## I'm a graphic designer, UX designer, and web developer. In no particular order. My skillset and background is a weird and lumpy Venn diagram. 
+## I'm a graphic designer, UX designer, and web developer...in no particular order. My skillset and background is a weird and lumpy Venn diagram. 
 
 <p>I've been building things for the web since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, adaptation, and collaboration.<sup id="a1"><a href="#f1">1</a></sup></p>
 
