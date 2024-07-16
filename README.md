@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## A graphic designer, UX designer, and web developer...in no particular order. My experience and skillset make a weird and lumpy Venn diagram. 
 
-<p>I’ve been building things for the web most of the time people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, adaptation, and collaboration.<sup id="a1"><a href="#f1">1</a></sup></p>
+<p>I’ve been building things for the web most of the time people have been doing that. The ever-evolving nature of the web suits my love of collaboration, continuous learning,  adaptation, and invention.<sup id="a1"><a href="#f1">1</a></sup></p>
 
 ### 🔭 I’m currently working on a handful of [Astro](https://astro.build/) sites of varying scale, a ground up brand design, and perfecting my raspberry jam recipe.
 
