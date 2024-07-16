@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Asana-informational?style=flat-square&logo=asana&color=273347&logoColor=273347)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat-square&logo=jira&color=0052CC&logoColor=0052CC)
 
-<!-- [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs,issues,stars&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick) -->
+[![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs,issues,stars&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick)
 
 
 ---
