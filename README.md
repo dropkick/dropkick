@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 <!-- <h2 align="center">👋 Hi there, I'm <a href="https://www.jduerr.com" target="_blank" rel="noreferrer">Jason</a> </h3> -->
 
-<h3>I'm a graphic designer and full-stack web developer.</h2>
+## I'm a graphic designer, UX designer, and web developer. In no particular order. My skillset and background is a weird and lumpy Venn diagram. 
 
-<p align="justify">I've been building things for the web since...well, pretty much since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, and adaptation.<sup id="a1"><a href="#f1">1</a></sup></p>
+<p>I've been building things for the web since people have been doing that. The ever-evolving nature of the web suits my love of continuous learning, invention, adaptation, and collaboration.<sup id="a1"><a href="#f1">1</a></sup></p>
 
-<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/dropkick/dropkick) -->
+### 🔭 I’m currently working on a handful of [Astro](https://astro.build/) sites of varying scale, a ground up brand design, and perfecting my raspberry jam recipe.
 
 <!-- [![Website Status](https://img.shields.io/uptimerobot/status/m788515658-5cca6b7b2083cb2b1cfb29fd?label=website%20status&style=flat-square)](https://dropkick.design) -->
 ## Contact + Connect
