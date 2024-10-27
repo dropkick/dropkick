@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 [![Jason Duerr @ LinkedIn](https://img.shields.io/badge/LinkedIn-jasonduerr-informational?style=flat-square&logo=LinkedIn&color=0A66C2)](https://twitter.com/dropkickdesign)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-jasonduerr-Informational?style=flat-square&logo=protonmail&color=8B89CC&logoColor=white)](mailto:jasonduerr@protonmail.com)
 ![](https://img.shields.io/badge/pgp-B79B%C2%A0F3F7%C2%A0671E%C2%A06558%C2%A0D7FE%C2%A0%C2%A04B1D%C2%A0CE20%C2%A0185B%C2%A04D92%C2%A0DC13-333333?style=flat-square)
-</br>
-[![last.fm](https://img.shields.io/badge/last.fm-braintoast-informational?style=flat-square&logo=Last.fm&color=D51007)](https://www.last.fm/user/braintoast)  [![dropkickdesign @ Mastodon](https://img.shields.io/badge/Mastodon-@dropkickdesign-informational?style=flat-square&logo=Mastodon&color=646CF4)](https://mstdn.social/@dropkickdesign)  [![Dropkick @ Dribbble](https://img.shields.io/badge/Dribbble-@dropkick-informational?style=flat-square&logo=Dribbble&color=EA4C89)](https://dribbble.com/dropkick)  [![dropkickdesign @ Instagram](https://img.shields.io/badge/Instagram-@dropkickdesign-informational?style=flat-square&logo=Instagram&color=E4405F)](https://instagram.com/dropkickdesign)
+<br/><br/>
+[![@dropkickdesign@mstdn.social](https://img.shields.io/badge/Mastodon-@dropkickdesign@mstdn.social-informational?style=flat-square&logo=Mastodon&color=646CF4)](https://mstdn.social/@dropkickdesign) [![dropkickdesign @ Instagram](https://img.shields.io/badge/Instagram-@dropkickdesign-informational?style=flat-square&logo=Instagram&color=E4405F)](https://instagram.com/dropkickdesign) [![dropkickdesign.com @ Bluesky](https://img.shields.io/badge/Bluesky-@dropkickdesign.com-informational?style=flat-square&logo=Bluesky&color=1F87FB)](https://bsky.app/profile/dropkickdesign.com) [![last.fm](https://img.shields.io/badge/last.fm-braintoast-informational?style=flat-square&logo=Last.fm&color=D51007)](https://www.last.fm/user/braintoast) [![Dropkickdesign @ Gitlab](https://img.shields.io/badge/Gitlab-dropkickdesign-informational?style=flat-square&logo=Gitlab&color=FA6D34)](https://gitlab.com/dropkickdesign) [![Dropkick @ Dribbble](https://img.shields.io/badge/Dribbble-@dropkick-informational?style=flat-square&logo=Dribbble&color=EA4C89)](https://dribbble.com/dropkick)  
 
 <!-- ## Current learning focus
-- Getting deeper with React -->
-
+ -->
+ <!--
 ## What I’m Working With
 ### Programming + Scripting + Data
 
@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Subversion-informational?style=flat-square&logo=Subversion&color=809CC9)
-<!-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=Postman&color=FF6C37) -->
 
 ### Editors + IDEs
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat-square&logo=VisualStudioCode&color=007ACC&logoColor=007ACC)
@@ -140,12 +139,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat-square&logo=jira&color=0052CC&logoColor=0052CC)
 
 [![dropkick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropkick&hide=contribs,prs,issues,stars&count_private=true&border_radius=0&hide_border=true&show_icons=true&include_all_commits&theme=dracula&custom_title=GitHub%20Numbers)](https://github.com/dropkick)
-
+-->
 
 ---
 <a style="margin: 0 auto;" href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=dropkick&theme=onedark&title=MultiLanguage,LongTimeUser,AncientUser,Commits&margin-w=10&no-bg=true&no-frame=true"></a>
-)](https://github.com/dropkick)
 
 ---
 Footnotes:
