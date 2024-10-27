@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm <a href="https://jasonduerr.info" rel="noreferrer">Jason</a>
+## 👋 Hi there, I'm <a rel="me" href="https://jduerr.com" rel="noreferrer">Jason</a>
 
-## A graphic designer, UX designer, and web developer...in no particular order. My experience and skillset make a weird and lumpy Venn diagram. 
+### A graphic designer, UX designer, and web developer. My experience and skillset make a weird and lumpy Venn diagram. 
 
 <p>I’ve been building things for the web most of the time people have been doing that. The ever-evolving nature of the web suits my love of collaboration, continuous learning,  adaptation, and invention.<sup id="a1"><a href="#f1">1</a></sup></p>
 
